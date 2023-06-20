@@ -1,0 +1,33 @@
+h1{
+  color: lightblue;
+}
+button{
+  border-radius: 5px;
+  background-color: lightblue;
+  color: white;
+  border: none;
+}
+input{
+  border: 1px lightblue solid;
+  text-align: center;
+}
+.card{
+  width: 60px;
+  height: 100px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  background-color: lightgray;
+  text-align: center;
+}
+.table{
+  margin-left: 40%;
+}
+button:active{
+  background-color: lightblue;
+  color: blue;
+}
+#playerTable{
+  border:1px lightblue solid;
+  margin-bottom: 0;
+  width:max-content;
+}
